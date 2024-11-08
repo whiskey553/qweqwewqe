@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+19:17:32	176409/176409	---MCZ	200	added ('OK')	text/html	date:Thu,%2007%20Nov%202024%2016:17:32%20GMT	https://kabochan.blog.jp/	D:/Launchdeploy/KABOSU/kabochan.blog.jp/index.html	(from )
+19:17:32	955/955	---MCZ	404	error ('Not%20Found')	text/html	date:Thu,%2007%20Nov%202024%2016:17:32%20GMT	https://kabochan.blog.jp/robots.txt		(from )
