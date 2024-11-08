@@ -12,18 +12,18 @@
 /* =============================================== */
 /** Contents
 
- ÆÈ¼«¥¿¥°
-	BlogHeader ¡Ä ¶¦ÄÌ¥Ø¥Ã¥À
-	BlogFooter ¡Ä ¶¦ÄÌ¥Õ¥Ã¥¿
-	LDServices ¡Ä ¥µ¥¤¥É¥Ð¥Ê¡¼
-	IndexNavigator ¡Ä ¥È¥Ã¥×¥Ú¡¼¥¸ÍÑ¥Ú¡¼¥¸¥ã
-	ArticleTagsList, ArticleTagsListInternal ¡Ä µ­»ö¥¿¥°, µ­»ö¥¿¥°¡§¥Ö¥í¥°Æâ¥ê¥ó¥¯
-	AddToClip ¡Ä ¥¯¥ê¥Ã¥×¥Ü¥¿¥ó
-	Clap ¡Ä Çï¼ê¥Ü¥¿¥ó
-	CommentForm ¡Ä ¥³¥á¥ó¥ÈÇ§¾Ú
- µ¡Ç½
-	Private Mode ¡Ä ¥×¥é¥¤¥Ù¡¼¥È¥â¡¼¥É
-	TagCloud - Plugin ¡Ä ¥¿¥°¥¯¥é¥¦¥É ¥×¥é¥°¥¤¥ó
+ ï¿½È¼ï¿½ï¿½ï¿½ï¿½ï¿½
+	BlogHeader ï¿½ï¿½ ï¿½ï¿½ï¿½Ì¥Ø¥Ã¥ï¿½
+	BlogFooter ï¿½ï¿½ ï¿½ï¿½ï¿½Ì¥Õ¥Ã¥ï¿½
+	LDServices ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½É¥Ð¥Ê¡ï¿½
+	IndexNavigator ï¿½ï¿½ ï¿½È¥Ã¥×¥Ú¡ï¿½ï¿½ï¿½ï¿½Ñ¥Ú¡ï¿½ï¿½ï¿½ï¿½ï¿½
+	ArticleTagsList, ArticleTagsListInternal ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+	AddToClip ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ã¥×¥Ü¥ï¿½ï¿½ï¿½
+	Clap ï¿½ï¿½ ï¿½ï¿½ï¿½Ü¥ï¿½ï¿½ï¿½
+	CommentForm ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç§ï¿½ï¿½
+ ï¿½ï¿½Ç½
+	Private Mode ï¿½ï¿½ ï¿½×¥é¥¤ï¿½Ù¡ï¿½ï¿½È¥â¡¼ï¿½ï¿½
+	TagCloud - Plugin ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é¥¦ï¿½ï¿½ ï¿½×¥é¥°ï¿½ï¿½ï¿½ï¿½
 */
 /* ----------------------------------------------- */
 
@@ -129,7 +129,7 @@ td.newstickerbox div {
 #header_scroll { width: 170px!important; }
 #header_topics div { height: 14px!important; }
 
-/* ¸Å¤¤¥Æ¥ó¥×¥ì¡¼¥È¤Ç¥í¥´¤¬Âç¤­¤¯¤Ê¤ë¡¢Í¾Çò¤¬¤Ç¤­¤ë¤Î¤ò½¤Àµ */
+/* ï¿½Å¤ï¿½ï¿½Æ¥ï¿½×¥ì¡¼ï¿½È¤Ç¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ç¤­ï¿½ï¿½ï¿½Ê¤ë¡¢Í¾ï¿½ò¤¬¤Ç¤ï¿½ï¿½ï¿½Î¤ï¿½ï¿½ï¿½ */
 table#header span.common-header-logo img {
 	width: 94px!important;
 	height: 17px!important;
@@ -351,7 +351,7 @@ div.private-mode-announcement p.authorized {
 	text-align: center;
 }
 
-/* ¥í¥°¥¢¥¦¥È¤¹¤ë */
+/* ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È¤ï¿½ï¿½ï¿½ */
 div.private-mode-announcement p.authorized a {
 	margin-left: 10px;
 }
@@ -531,7 +531,7 @@ div#ad2:after { content: "."; display: block; clear: both; height: 0; visibility
 *+html div#ad2 { height: 1%; }
 
 
-/* = livedoor Ad¡Êµ­»ö²¼¹­¹ð¡Ë
+/* = livedoor Adï¿½Êµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 ----------------------------------------------- */
 body.ad {
 	background: transparent;
@@ -1007,7 +1007,7 @@ div.twitterTimeline span.twitterAuthor {
 /* = loctouch - Loctouch Connection
 =============================================== */
 /*
-¥í¥±¥¿¥Ã¥Á¥¿¥¤¥à¥é¥¤¥ó
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ã¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é¥¤ï¿½ï¿½
 */
 p.touchItemDate {
     margin-top: 1em;
@@ -1427,7 +1427,7 @@ div.popularArticlesWithImage.C div.pv{
 	text-shadow: 0 1px 0 #fff;
 }
 
-/* µ­»ö²¼¥½¡¼¥·¥ã¥ë¥Ü¥¿¥ó */
+/* ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü¥ï¿½ï¿½ï¿½ */
 .article-social-btn {
 	font-size: 12px;
 }
@@ -1443,7 +1443,7 @@ div.popularArticlesWithImage.C div.pv{
 	margin-right: 4px !important;
 }
 
-/* µ­»ö²¼¥½¡¼¥·¥ã¥ë¥Ü¥¿¥ó¡Ê¸Å¤¤¥Ç¥¶¥¤¥óÍÑ¡Ë */
+/* ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü¥ï¿½ï¿½ï¿½Ê¸Å¤ï¿½ï¿½Ç¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ñ¡ï¿½ */
 ul.article-post li {
 	font-size: 12px;
 }
@@ -1463,17 +1463,17 @@ ul.article-post li * {
 	margin: 0;
 }
 
-/* ±¦´ó¤»¤À¤Ètumblr¤Î¥Ü¥¿¥ó¤Ç¥Æ¥­¥¹¥È¤¬¤«¤Ö¤ë */
+/* ï¿½ï¿½ï¿½ó¤»¤ï¿½ï¿½ï¿½tumblrï¿½Î¥Ü¥ï¿½ï¿½ï¿½Ç¥Æ¥ï¿½ï¿½ï¿½ï¿½È¤ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ */
 .article-social-btn a[href*="tumblr"] {
 	text-align: left;
 }
 
-/* ´ØÏ¢µ­»ö */
+/* ï¿½ï¿½Ï¢ï¿½ï¿½ï¿½ï¿½ */
 .related-articles {
 	clear: both;
 }
 
-/* ²èÁüÉÕ¤­´ØÏ¢µ­»ö */
+/* ï¿½ï¿½ï¿½ï¿½ï¿½Õ¤ï¿½ï¿½ï¿½Ï¢ï¿½ï¿½ï¿½ï¿½ */
 .related-articles.with-image h3 {
     margin: 0 0 20px;
 }
@@ -1508,7 +1508,7 @@ ul.article-post li * {
 .related-articles.with-image .related-article-image.noimage {
     padding: 0;
 }
-/* ³Æ¥Æ¥ó¥×¥ì¤Ç»ØÄê¤µ¤ì¤Æ¤¤¤ë¥Ó¥å¥ì¥Ã¥È¤Ê¤É¤ò¾Ã¤¹ */
+/* ï¿½Æ¥Æ¥ï¿½×¥ï¿½Ç»ï¿½ï¿½ê¤µï¿½ï¿½Æ¤ï¿½ï¿½ï¿½Ó¥ï¿½ï¿½Ã¥È¤Ê¤É¤ï¿½Ã¤ï¿½ */
 .related-articles.with-image ul li,
 .related-articles.with-image ul li a {
     list-style: none!important;
@@ -1518,7 +1518,7 @@ ul.article-post li * {
     content: '';
 }
 
-/* ¥¿¥°¹Ê¤ê¹þ¤ß¸¡º÷ */
+/* ï¿½ï¿½ï¿½ï¿½ï¿½Ê¤ï¿½ï¿½ï¿½ß¸ï¿½ï¿½ï¿½ */
 .plugin-search_tags li {
   margin-bottom: .6em;
   list-style: none;
@@ -1531,24 +1531,24 @@ ul.article-post li * {
   padding: 2px 4px;
 }
 
-/* ¥«¥Æ¥´¥ê¥×¥é¥°¥¤¥ó¡Ê¥»¥ì¥¯¥È¥Ü¥Ã¥¯¥¹¡Ë */
+/* ï¿½ï¿½ï¿½Æ¥ï¿½ï¿½ï¿½×¥é¥°ï¿½ï¿½ï¿½ï¿½Ê¥ï¿½ï¿½ì¥¯ï¿½È¥Ü¥Ã¥ï¿½ï¿½ï¿½ï¿½ï¿½ */
 .plugin-categorize select {
   width: 100%;
 }
 
-/* ¸¡º÷·ë²Ì¤¬¤Ê¤¤¾ì¹ç¤Î¥á¥Ã¥»¡¼¥¸ */
+/* ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì¤ï¿½ï¿½Ê¤ï¿½ï¿½ï¿½ï¿½Î¥ï¿½Ã¥ï¿½ï¿½ï¿½ï¿½ï¿½ */
 .noresult-message {
   padding: 2em 0 4em;
 }
 
-/* ¥³¥á¥ó¥È¿·µ¡Ç½ */
+/* ï¿½ï¿½ï¿½ï¿½ï¿½È¿ï¿½ï¿½ï¿½Ç½ */
 
-/* µì¥³¥á¥ó¥È¤ÎÄ´À°*/
+/* ï¿½ì¥³ï¿½ï¿½ï¿½È¤ï¿½Ä´ï¿½ï¿½*/
 #comment-form-tools .rating-value ul {
   height: auto;
 }
 
-/* ¿·¥³¥á¥ó¥ÈÍÑ */
+/* ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ */
 .comment-set.v2 {
   border-top: 1px solid #F3F3F3;
   border-bottom: 1px solid #F3F3F3;
@@ -1957,6 +1957,7 @@ ul.article-post li * {
 #comment-form.comment-form-v2 .comment-form-tools .memorize input {
   display: none;
 }
+.to-page-top
 #comment-form.comment-form-v2 .comment-form-tools .comment-form-sumibit {
   margin-top: 12px;
   width: 100%;
@@ -1978,11 +1979,11 @@ ul.article-post li * {
   line-height: 1;
 }
 
-/* ¥Õ¥©¡¼¥àÉôÊ¬¶¦ÄÌ
- * template_6thgen.css ¤ÎÆâÍÆ¤òÊÑ¹¹¤·¤¿¤¤¤Î¤À¤±¤É¡¢¥Ö¥í¥°¤Î¥«¥¹¥¿¥àCSS ¤Ë
- *  - @import ¤Ç¸Æ¤Ó½Ð¤µ¤ì¤Æ¤¤¤Æ¥­¥ã¥Ã¥·¥åÂÐºö¥¯¥¨¥ê¤òÆþ¤ì¤é¤ì¤Ê¤¤
- *  - dev ¥Ö¥í¥°¤Ç¤âËÜÈÖ¤Î css ÆÉ¤ß¹þ¤ó¤Ç¤Æ¸¡¾Ú¤Ç¤­¤Ê¤¤
- *  ¤Î¤¿¤á»ÅÊý¤Ê¤¯¤³¤³¤Ëµ­ºÜ¤·¤Þ¤¹
+/* ï¿½Õ¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¬ï¿½ï¿½ï¿½ï¿½
+ * template_6thgen.css ï¿½ï¿½ï¿½ï¿½ï¿½Æ¤ï¿½ï¿½Ñ¹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î¤ï¿½ï¿½ï¿½ï¿½É¡ï¿½ï¿½Ö¥ï¿½ï¿½ï¿½ï¿½Î¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½CSS ï¿½ï¿½
+ *  - @import ï¿½Ç¸Æ¤Ó½Ð¤ï¿½ï¿½ï¿½Æ¤ï¿½ï¿½Æ¥ï¿½ï¿½ï¿½Ã¥ï¿½ï¿½ï¿½ï¿½Ðºï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¤ï¿½
+ *  - dev ï¿½Ö¥ï¿½ï¿½ï¿½ï¿½Ç¤ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ css ï¿½É¤ß¹ï¿½ï¿½ï¿½Ç¤Æ¸ï¿½ï¿½Ú¤Ç¤ï¿½ï¿½Ê¤ï¿½
+ *  ï¿½Î¤ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¤ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ëµï¿½ï¿½Ü¤ï¿½ï¿½Þ¤ï¿½
 ----------------------------------------------- */
 #comment-form input.text,
 #comment-form textarea,
