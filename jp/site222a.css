@@ -915,6 +915,7 @@ table.caltblday .calon a:hover {
   width: 70px;
   height: 70px;
   text-indent:-9999px;
+	display:none !important;
 }
 .to-pagetop a {
   opacity: 0.6;
